@@ -12,6 +12,12 @@ this is the model that has a couple features we want on the above models
 
 Always remember to check licenses, both of these each allow remixing as long as proper attribution is always accreddited, and as long as there is no commercial use. So basically, dont sell it, and dont claim it as your own.
 
+### License
+To comply with the original license from the original modes that the remix from this walk through creates, this repo and all files within is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+### Model Files
+you can find the finished models here in the models folder: [/models](./models)
+
 # Importing Alternate Model
 since im using f360, and since the thingiverse model doesnt give us nice modifyable step or f3d files, i will start a direct modeling project (i do not recomend using parametric timeline modelling when editing a mesh of any type, including STL), import it as mesh, and use mesh convert into body
 
