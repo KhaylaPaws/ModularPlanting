@@ -1,24 +1,27 @@
 # ModularPlanting
 A little tutorial for modifying stls, specifically for a modular planter
 
-Quick note, this walk through is simply how I went about it wiht a specific software. This is in no way an ABSOLUTE how to, because there are a hundreds of softwares plus millions of ways to do the same thing within each software
+Quick note, this walk through is simply how I went about it with a specific software. This is in no way an ABSOLUTE how to, because there are a hundreds of softwares plus millions of ways to do the same thing within each software
 
 # Goal and Attribution
-Theis is the source for the models that need to be modified:
-- [https://www.printables.com/model/669456-modular-hydroponic-tower-garden/files](https://www.printables.com/model/669456-modular-hydroponic-tower-garden/files) (specifically, the 3-Way_Planting_Module.STEP and the 3-Way_Planting_Module_Hollow.STEP)
+    This is the source for the models that need to be modified:
+- [https://www.printables.com/model/669456-modular-hydroponic-tower-garden/files](https://www.printables.com/model/669456-modular-hydroponic-tower-garden/files)
+- (specifically, the 3-Way_Planting_Module.STEP and the 3-Way_Planting_Module_Hollow.STEP)
 
-this is the model that has a couple features we want on the above models
-- [https://www.thingiverse.com/thing:2403922](https://www.thingiverse.com/thing:2403922/files) (specifically, the Module.stl)
+    this is the model that has a couple features we want on the above models
+- [https://www.thingiverse.com/thing:2403922](https://www.thingiverse.com/thing:2403922/files)
+- (specifically, the Module.stl)
 
 Always remember to check licenses, both of these each allow remixing as long as proper attribution is always accreddited, and as long as there is no commercial use. So basically, dont sell it, and dont claim it as your own.
 
 # License
 To comply with the original license from the original modes that the remix from this walk through creates, this repo and all files within is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) which is also inlcuded in this repository here: [LICENSE](./LICENSE).
 
-### Model Files
+# Model Files
 you can find the finished models here in the models folder: [/models](./models)
 
 # Start!
+# Importing Alternate Model
 since im using f360, and since the thingiverse model doesnt give us nice modifyable step or f3d files, i will start a direct modeling project (i do not recomend using parametric timeline modelling when editing a mesh of any type, including STL), import it as mesh, and use mesh convert into body
 
 ![001 Failed](./assets/001.PNG)
