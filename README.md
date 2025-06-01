@@ -13,7 +13,7 @@ this is the model that has a couple features we want on the above models
 Always remember to check licenses, both of these each allow remixing as long as proper attribution is always accreddited, and as long as there is no commercial use. So basically, dont sell it, and dont claim it as your own.
 
 ### License
-To comply with the original license from the original modes that the remix from this walk through creates, this repo and all files within is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+To comply with the original license from the original modes that the remix from this walk through creates, this repo and all files within is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)(CC BY-NC-SA 4.0) which is inlcuded in this repository here: [LICENSE](./LICENSE).
 
 ### Model Files
 you can find the finished models here in the models folder: [/models](./models)
