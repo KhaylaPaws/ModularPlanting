@@ -15,7 +15,7 @@ Always remember to check licenses, both of these each allow remixing as long as 
 # Importing Alternate Model
 since im using f360, and since the thingiverse model doesnt give us nice modifyable step or f3d files, i will start a direct modeling project (i do not recomend using parametric timeline modelling when editing a mesh of any type, including STL), import it as mesh, and use mesh convert into body
 
-![001 Failed](./assets/001.png)
+![001 Failed](./assets/001.PNG)
 
 ![002 Failed](./assets/002.png)
 
